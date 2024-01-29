@@ -1,0 +1,15 @@
+1706514377600	geckodriver	INFO	Listening on 127.0.0.1:53532
+1706514380667	mozrunner::runner	INFO	Running command: "C:\\Users\\tub70\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remote-debugging- ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tub70\\AppData\\Local\\Temp\\rust_mozprofileyIgCjQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706514380885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706514380934	Marionette	INFO	Listening on port 53552
+WebDriver BiDi listening on ws://127.0.0.1:53533
+Read port: 53552
+1706514381059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53533/devtools/browser/aead57da-9eb3-4d33-af19-abe70a41cb0e
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 1415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706514410916	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
